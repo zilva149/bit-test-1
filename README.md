@@ -12,7 +12,6 @@ Design: in the img folder
 - HTML
 - CSS
 - CSS3 Flexbox
-- Pseudo elements
 - media queries for responsive design
 
 ## Authors
