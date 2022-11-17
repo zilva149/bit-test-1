@@ -123,6 +123,16 @@ img {
     Media Queries
 ================ */
 
+@media screen and (max-width: 499px) {
+    .container {
+        max-width: 80%;
+    }
+
+    .box-img {
+        padding: 3rem;
+    }
+}
+
 
 @media screen and (min-width: 700px) {
     .container {
